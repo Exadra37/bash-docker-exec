@@ -31,9 +31,9 @@ how to _Create an Issue_ and _Merge Request_.
 
 ## ROAD MAP
 
-Check [Milestones](https://gitlab.com/exadra37-bash/docker-container-shell/milestones) to see what Goals I want to achieve.
+Check [Milestones](https://gitlab.com/exadra37-bash/docker-exec/milestones) to see what Goals I want to achieve.
 
-Watch [Boards](https://gitlab.com/exadra37-bash/docker-container-shell/boards) to keep track of what is going on.
+Watch [Boards](https://gitlab.com/exadra37-bash/docker-exec/boards) to keep track of what is going on.
 
 
 ## HOW TO INSTALL

@@ -1,10 +1,26 @@
 {
-    "name": "exadra37-bash/docker-container-shell",
-    "description": "All my repositories will have this one as starting point.",
+    "name": "exadra37-bash/docker-exec",
+    "description": "Bash functions to work with docker exec command.",
     "keywords": [
-        "Exadra37"
+        "Exadra37",
+        "bash",
+        "bash functions",
+        "bash package manager",
+        "bash required packages",
+        "bash bin package installer",
+        "bash docker exec",
+        "docker",
+        "docker exec",
+        "docker attach",
+        "docker ssh",
+        "docker shell",
+        "docker container shell",
+        "docker container ssh",
+        "container shell",
+        "container attach",
+        "container ssh"
     ],
-    "homepage": "https://gitlab.com/exadra37-bash/docker-container-shell",
+    "homepage": "https://gitlab.com/exadra37-bash/docker-exec",
     "license": "GPL-3.0",
     "authors": [
         {
